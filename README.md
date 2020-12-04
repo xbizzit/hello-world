@@ -1,2 +1,4 @@
 # hello-world
-Short descr.
+
+Hi guys,
+I'm new in coding, but I hope I will get advanced soon, thank you!
